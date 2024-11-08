@@ -1,6 +1,6 @@
 # Proxmox VM Service
 ## Prerequisites
-* Ask [kevinjan](mailto:kaiyuan.jan@itri.org.tw) to require Proxmox web/terminal login username and passwd.
+* Ask [kevinjan](mailto:kaiyuan.jan@itri.org.tw) to acquire Proxmox web/terminal login username and passwd.
 * You can clone a new vm from Proxmox Ubuntu-2204-base vm or install it from ISO.
 * New vm is needed to bind a assigned NAT IP address.
 
