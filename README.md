@@ -46,7 +46,7 @@ Upload your ISO to worker01 node's local which node you want to placed your new 
 
 ubuntu-22.04.5-desktop-amd64.iso is uploaded to worker01
 
-![241107-010](https://github.com/user-attachments/assets/3827b60f-bf64-4898-8845-b20e980e22a3)
+![241112-002](https://github.com/user-attachments/assets/250a7824-4315-4ac8-92fd-0d32d438bc95)
 
 Click "Create VM" in right-upper corner and fill vm's hardware/info requirement as following
 
